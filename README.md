@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7xpro
-- 👀 I’m interested in -programmig and app/game devlepment.
-- 🌱 I’m currently learning - c/c++ language.
-- 💞️ I’m looking to collaborate on _NIL.
+- 👀 I’m interested in -programmig and  web development.
+- 🌱 I’m currently learning - html css js and react js .
+- 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me arshadkhan626385@gmail.com
 
 <!---
