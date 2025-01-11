@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @7xpro
-- 👀 I’m interested in -programmig and  web development.
-- 🌱 I’m currently learning - html css js and react js .
-- 💞️ I’m looking to collaborate on front end projects.
+- 👋 Hi,my name is arshad khan
+- 👀 I’m interested in data engineering.
+- 🌱 I’m currently learning - python sql aws and more.
+- 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me arshadkhan626385@gmail.com
 
 <!---
