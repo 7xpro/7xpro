@@ -2,7 +2,7 @@
 - 👀 I’m interested in data engineering.
 - 🌱 I’m currently learning - python sql aws and more.
 - 💞️ I’m looking to collaborate on data projects.
-- 📫 How to reach me arshadkhan626385@gmail.com
+- 📫 How to reach me arshadwork6@gmail.com
 
 <!---
 7xpro/7xpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
